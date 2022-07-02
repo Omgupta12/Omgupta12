@@ -22,3 +22,13 @@ Here are some ideas to get you started:
 - Chakra-UI
 - Material-UI
 
+## My top projects
+- Pluralsight clone
+- GIVA Jewellery clone
+- Translation App
+- Whether App
+- Food App
+- Google Timer and Stopwatch 
+
+## Let's Connect 
+- <a href="https://www.linkedin.com/in/om-prakash-gupta-43885b1b7/">LinkedIn </a>
