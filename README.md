@@ -2,8 +2,7 @@
 
 <!-- 
 **Omgupta12/Omgupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
+- Full Stack Web Developer
 
 - 🔭 I’m currently working on FrontEnd Development.
 - 🌱 I’m currently learning MERN.
