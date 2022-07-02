@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ## Let's Connect 
 - <a href="https://www.linkedin.com/in/om-prakash-gupta-43885b1b7/ target=_blank" >LinkedIn </a>
-- <a href=" https://my-portfolio-ashen-one.vercel.app/" >Portfolio </a>
+- <a href="https://my-portfolio-ashen-one.vercel.app/" >Portfolio </a>
