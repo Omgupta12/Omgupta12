@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 - Translation App
 - Whether App
 - Food App
-- Google Timer and Stopwatch https://my-portfolio-ashen-one.vercel.app/
+- Google Timer and Stopwatch
 
 ## Let's Connect 
 - <a href="https://www.linkedin.com/in/om-prakash-gupta-43885b1b7/ target=_blank" >LinkedIn </a>
 - <a href="https://my-portfolio-ashen-one.vercel.app/" >Portfolio </a>
+- <a href="Omprakash1997242@gmail.com" >Gmail </a>
