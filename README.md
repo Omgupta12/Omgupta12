@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 ## Teck Stack
 
-<img scr="[https://user-images.githubusercontent.com/101566276/177001963-5e2bd516-8915-46e1-92d4-9272abbaf7ee.svg](https://camo.githubusercontent.com/fee8b58b749cc766f92dac3820a37e5a2918598f3d1b29f5ba04c6dca287308d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f38302f3030303030302f68746d6c2d352e706e67)" alt="ok" />
+<img scr="[https://user-images.githubusercontent.com/101566276/177001963-5e2bd516-8915-46e1-92d4-9272abbaf7ee.svg](https://camo.githubusercontent.com/fee8b58b749cc766f92dac3820a37e5a2918598f3d1b29f5ba04c6dca287308d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f38302f3030303030302f68746d6c2d352e706e67)">
 
 
