@@ -84,12 +84,7 @@
     <a href="https://github.com/Omgupta12/Assignments-React-/tree/master/Tic-Tac" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tick-Tack-Toe Game&color=7A1FA2&logo=tick-tack-toe&logoColor=FFFFFF&label=" alt="Tick-Tack-Toe-Game" />
     </a>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
+   
 </p>
 <br>
 
@@ -135,17 +130,17 @@
 
 
 <p>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=rosy-flock-7629&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
-    </a>
      <a href="https://github.com/Micheal-George/PluralSight.Site">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&locale=en&border_radius=0&theme=dark" alt="Micheal-George" />
+    </a>
+    <a href="https://github.com/Omgupta12/rosy-flock-7629">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=rosy-flock-7629&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
     </a>
     <a href="https://github.com/Omgupta12/Gymwolf-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Gymwolf-Clone&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
     </a>
-    <a href="https://github.com/Omgupta12/Assignments-React-/tree/master/Google-Timer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Assignments-React-&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
+    <a href="https://github.com/Omgupta12/Custom-Function">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Custom-Function&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
    
     
 </p>
