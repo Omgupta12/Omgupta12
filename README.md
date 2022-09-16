@@ -138,27 +138,15 @@
     <a href="https://github.com/Omgupta12/rosy-flock-7629">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=rosy-flock-7629&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
     </a>
-    <a href="https://github.com/Micheal-George/PluralSight.Site">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=PluralSight.Site&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+     <a href="https://github.com/Micheal-George/PluralSight.Site">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&locale=en&border_radius=0&theme=dark" alt="Micheal-George" />
+    </a>
+    <a href="https://github.com/Omgupta12/Gymwolf-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Gymwolf-Clone&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
     </a>
     <a href="https://github.com/Omgupta12/Assignments-React-/tree/master/Google-Timer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Google-Timer&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/Omgupta12/State-uplifting">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=State-uplifting&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
-    </a>
-     <a href="https://github.com/Omgupta12/rosy-flock-7629">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Assignments-React-&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
+   
     
 </p>
 
