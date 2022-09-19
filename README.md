@@ -98,14 +98,11 @@
     <a href="linkedin.com/in/om-prakash-gupta-43885b1b7">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/om-prakash-gupta-43885b1b7" />
     </a>
-      <a href="https://my-portfolio-ashen-one.vercel.app/">
+      <a href="https://omgupta12.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://my-portfolio-ashen-one.vercel.app/" />
     </a>
     <a href="https://twitter.com/OmPraka21200412">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/OmPraka21200412" />
-    </a>
-    <a title="omprakash1997242@gmail.com" href="omprakash1997242@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="omprakash1997242@gmail.com" />
     </a>
 </p>
 <br>
