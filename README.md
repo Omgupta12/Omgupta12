@@ -72,7 +72,7 @@
     <a href="https://github.com/Omgupta12/can-table-5382" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gymwolf Clone&color=1BB91F&logo=Gymwolf&logoColor=FFFFFF&label=" alt="Gymwolf-Clone" />
     </a>
-    <a href="https://github.com/Micheal-George/PluralSight.Site" target="blank">
+    <a href="https://github.com/Omgupta12/PluralSight-Clone" target="blank">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PluralSight Clone&color=FD3A5C&logo=PluralSight&logoColor=FFFFFF&label=" alt="PluralSight-Clone" />
     </a>
     <a href="https://github.com/mukulsomukesh/GIva" target="blank">
@@ -124,8 +124,8 @@
 
 
 <p>
-     <a href="https://github.com/Micheal-George/PluralSight.Site">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Micheal-George&repo=PluralSight.Site&locale=en&border_radius=0&theme=dark" alt="Micheal-George" />
+     <a href="https://github.com/Omgupta12/PluralSight-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=PluralSight-Clone&locale=en&border_radius=0&theme=dark" alt="Micheal-George" />
     </a>
     <a href="https://github.com/Omgupta12/rosy-flock-7629">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=rosy-flock-7629&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
