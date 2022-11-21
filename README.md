@@ -118,24 +118,4 @@
 
 
 
-<!----------------------------------- Top Repository Section ------------------------------------>
-
-<h2><i>Top Repositories</i></h2>
-
-
-<p>
-     <a href="https://github.com/Omgupta12/PluralSight-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=PluralSight-Clone&locale=en&border_radius=0&theme=dark" alt="Micheal-George" />
-    </a>
-    <a href="https://github.com/Omgupta12/rosy-flock-7629">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=rosy-flock-7629&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
-    </a>
-    <a href="https://github.com/Omgupta12/Gymwolf-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Gymwolf-Clone&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
-    </a>
-    <a href="https://github.com/Omgupta12/Custom-Function">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omgupta12&repo=Custom-Function&locale=en&border_radius=0&theme=dark" alt="Omgupta12" />
-   
-    
-</p>
 
