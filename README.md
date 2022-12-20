@@ -13,10 +13,6 @@
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
-
-<h3>
-    <i>- Currently I'm learning MERN at Masai School.</i>
-</h3>
 <br>
 
 
@@ -62,29 +58,28 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My Top Projects</i></h2>
+<h2><i>My Projects</i></h2>
 
 
 <p align="left">
+      <a href="https://github.com/Anshul-Singla/tender-letter-2789" target="blank">
+         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TimeTracker Clone&color=1a78f4&logo=Nordstrom&logoColor=FFFFFF&label=" alt="TimeTracker Clone" />
+    </a>
+       <a href="https://github.com/shubhamksingh/FusionStrom.com" target="blank">
+     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=FusionStrom Clone&color=FD3A5C&logo=Tmetric&logoColor=FFFFFF&label=" alt="FusionStrom-Clone" />
+    </a>
     <a href="https://github.com/Omgupta12/rosy-flock-7629" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bluefly Clone&color=000000&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bluefly Clone&color=000000&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
     </a>
     <a href="https://github.com/Omgupta12/can-table-5382" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gymwolf Clone&color=1BB91F&logo=Gymwolf&logoColor=FFFFFF&label=" alt="Gymwolf-Clone" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gymwolf Clone&color=1BB91F&logo=Gymwolf&logoColor=FFFFFF&label=" alt="Gymwolf-Clone" />
     </a>
     <a href="https://github.com/Omgupta12/PluralSight-Clone" target="blank">
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PluralSight Clone&color=FD3A5C&logo=PluralSight&logoColor=FFFFFF&label=" alt="PluralSight-Clone" />
-    </a>
-    <a href="https://github.com/mukulsomukesh/GIva" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Giva Clone&color=840010&logo=giva&logoColor=FFFFFF&label=" alt="Giva-Clone" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PluralSight Clone&color=FD3A5C&logo=PluralSight&logoColor=FFFFFF&label=" alt="PluralSight-Clone" />
     </a>
     <a href="https://github.com/Omgupta12/Assignments-React-/tree/master/Google-Timer" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google Timer&color=1a78f4&logo=Timer&logoColor=FFFFFF&label=" alt="Google-Timer" />
-    </a>
-    <a href="https://github.com/Omgupta12/Assignments-React-/tree/master/Tic-Tac" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tick-Tack-Toe Game&color=7A1FA2&logo=tick-tack-toe&logoColor=FFFFFF&label=" alt="Tick-Tack-Toe-Game" />
-    </a>
-   
+    </a> 
 </p>
 <br>
 
