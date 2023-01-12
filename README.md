@@ -106,9 +106,7 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omgupta12&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Omgupta12" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omgupta12&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Omgupta12" height="139" />
-</p>
+    <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Omgupta12&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Omgupta12" height="139" />
 <br>
 
 
